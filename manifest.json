@@ -19,7 +19,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "YandexSearchExtension@io.librity",
+      "id": "YandexSearchExtensionDefaultSettings@inner767",
       "strict_min_version": "55.0"
     }
   },
